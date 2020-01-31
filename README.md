@@ -1,2 +1,2 @@
-# fruit-flux-api
+# Fruit Flux API
 Richardson RESTful APi using Spring WebFlux
